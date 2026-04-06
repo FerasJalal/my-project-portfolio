@@ -1,2 +1,2 @@
 # NLP
-files for the NAtural Language Processing 
+files for the Natural Language Processing 
