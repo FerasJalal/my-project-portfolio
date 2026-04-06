@@ -1,10 +1,10 @@
-# Portfolio Projects
+# Feras Jalal Portfolio 
 
 ## About Me
 Hello! I am Feras, a Data Science and Artificial Intelligence student interested in machine learning, natural language processing, analytics, and AI-based problem solving.
 
-## Contact
-Email: ferssodat@gmail.com
+
+
 
 ## Portfolio Projects
 
@@ -17,3 +17,7 @@ Email: ferssodat@gmail.com
 | Machine Learning | [Open Folder](Machine-Learning) | Built a liver disease prediction project using supervised classification models, feature preprocessing, hyperparameter optimization, and evaluation metrics to improve early disease detection and model interpretability. |
 | Applied Analytical Models | [Open Folder](Applied-Analytical-Models) | Built an EV charging decision-support project using analytical models, machine learning, fairness analysis, and reinforcement learning to predict charging outcomes and improve operational recommendations. |
 | Optimization Theory | [Open Folder](Optimization-Theory) | Applied constrained, unconstrained, and metaheuristic optimization methods—including Lagrange multipliers, KKT conditions, Gradient Descent, Newton’s Method, PSO, GWO, and GA—to solve planning, model optimization, and feature-selection problems while comparing convergence, stability, and performance. |
+
+## Contact
+Email: ferssodat@gmail.com
+Linkedin: https://www.linkedin.com/in/ferasaloudat/
